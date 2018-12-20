@@ -1,4 +1,4 @@
-# bolinhasAC_correction
+# bolinhasAC_
 Casual Game made with Java
 
 
