@@ -9,7 +9,7 @@ Using simple Grafics library, we manage tu make a great game.
 
 Bootcamp #21 - Academia de Codigo
 
-Pedro Varela, Pedro Carmezim, Sergio Mota, Rui Moreira, Joao Lopes, Farncisco MC Machado.
+Pedro Varela, Pedro Carmezim, Sergio Mota, Rui Moreira, Joao Lopes, Francisco MC Machado.
 
 
 
