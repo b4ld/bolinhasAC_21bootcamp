@@ -20,7 +20,7 @@ public class ExplosionManager {
     public ExplosionManager(PieceFactory factory, Game game) {
         this.factory = factory;
         this.game = game;
-        explosions = new LinkedList<>();
+        explosions = new LinkedList<Piece>();
     }
 
     public void addExplosion(int col, int row) {
